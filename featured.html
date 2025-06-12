@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Featured Playlist - Music Playlist Explorer</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header section with nav -->
+    <header id="banner">
+        <h1>Featured Playlist</h1>
+        <!-- nav between pages -->
+        <nav class="navigation">
+            <a href="index.html" class="nav-link">All Playlists</a>
+            <a href="featured.html" class="nav-link active">Featured</a>
+        </nav>
+    </header>
+
+    <main class="featured-main">
+        <div class="featured-container">
+            <!-- Left section: image and info -->
+            <div class="featured-left">
+                <img id="featured-image" src="" alt="Featured Playlist Cover" class="featured-cover">
+                <div class="featured-info">
+                    <h2 id="featured-title" class="featured-playlist-title"></h2>
+                    <p id="featured-author" class="featured-playlist-author"></p>
+                </div>
+            </div>
+
+            <!-- Right section: songs list -->
+            <div class="featured-right">
+                <h3 class="featured-songs-header">Songs in this playlist:</h3>
+                <div id="featured-songs-list" class="featured-songs-list">
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>Music Playlist Explorer</p>
+    </footer>
+    
+    <script src="data/data.js"></script>
+    <script src="featured.js"></script>
+</body>
+</html>

@@ -1,0 +1,148 @@
+{
+    "playlists": [
+    {
+        "playlistID": 1,
+        "playlist_name": "Ye",
+        "playlist_author": "Brianna Farinango",
+        "playlist_art": "assets/img/kanye.jpg",
+        "likes": 0,
+        "songs": [
+        {
+            "title": "Wolves",
+            "artist": "Kanye West",
+            "duration": "5:00"
+        },
+        {
+            "title": "Gorgeous",
+            "artist": "Kanye West",
+            "duration": "5:56"
+        },
+        {
+            "title": "Amazing",
+            "artist": "Kanye West",
+            "duration": "3:57"
+        }
+        ]
+    },
+    {
+        "playlistID": 2,
+        "playlist_name": "Bachata",
+        "playlist_author": "Brianna Farinango",
+        "playlist_art": "assets/img/thailand.JPG",
+        "likes": 0,
+        "songs": [
+        {
+            "title": "Brindo con Agua",
+            "artist": "Aventura",
+            "duration": "4:41"
+        },
+        {
+            "title": "La Boda",
+            "artist": "Aventura",
+            "duration": "4:50"
+        },
+        {
+            "title": "Hombre No Muere de Pena",
+            "artist": "Teodoro Reyes",
+            "duration": "3:54"
+        }
+        ]
+    },
+    {
+        "playlistID": 3,
+        "playlist_name": "Lanita",
+        "playlist_author": "Brianna Farinango",
+        "playlist_art": "assets/img/lanita.jpg",
+        "likes": 0,
+        "songs": [
+        {
+            "title": "Television Heaven",
+            "artist": "Lana Del Rey",
+            "duration": "4:04"
+        },
+        {
+            "title": "Florida Kilos",
+            "artist": "Lana Del Rey",
+            "duration": "4:13"
+        },
+        {
+            "title": "Tulsa Jesus Freak",
+            "artist": "Lana Del Rey",
+            "duration": "3:35"
+        }
+        ]
+    },
+    {
+        "playlistID": 4,
+        "playlist_name": "Country",
+        "playlist_author": "Brianna Farinango",
+        "playlist_art": "assets/img/austin.jpg",
+        "likes": 0,
+        "songs": [
+        {
+            "title": "Parachute",
+            "artist": "Chris Stapleton",
+            "duration": "4:13"
+        },
+        {
+            "title": "In My Arms Instead",
+            "artist": "Randy Rogers Band",
+            "duration": "5:18"
+        },
+        {
+            "title": "People Are Crazy",
+            "artist": "Billy Currington",
+            "duration": "3:51"
+        }
+        ]
+    },
+    {
+        "playlistID": 5,
+        "playlist_name": "Make Jaime Proud",
+        "playlist_author": "Brianna Farinango",
+        "playlist_art": "assets/img/luna.jpg",
+        "likes": 0,
+        "songs": [
+        {
+            "title": "Free Bird",
+            "artist": "Lynyrd Skynyrd",
+            "duration": "9:11"
+        },
+        {
+            "title": "Mariposa Traicionera",
+            "artist": "Maná",
+            "duration": "4:25"
+        },
+        {
+            "title": "Dust in the Wind",
+            "artist": "Kansas",
+            "duration": "3:26"
+        }
+        ]
+    },
+    {
+        "playlistID": 6,
+        "playlist_name": "Grills",
+        "playlist_author": "Brianna Farinango",
+        "playlist_art": "assets/img/houston.jpg",
+        "likes": 0,
+        "songs": [
+        {
+            "title": "Girl",
+            "artist": "Paul Wall",
+            "duration": "4:38"
+        },
+        {
+            "title": "Mo City Don",
+            "artist": "Z-Ro",
+            "duration": "4:25"
+        },
+        {
+            "title": "In My City",
+            "artist": "Z-Ro",
+            "duration": "4:10"
+        }
+        ]
+    }
+    ]
+}

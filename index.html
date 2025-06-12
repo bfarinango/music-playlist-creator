@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Music Playlist Explorer</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <link rel="stylesheet" href="style.css">
+    <link rel=""
+</head>
+<body>
+    <!-- Header section with nav -->
+    <header id="banner">
+        <h1>Music Playlist Explorer</h1>
+        <nav class="navigation">
+            <a href="index.html" class="nav-link active">All Playlists</a>
+            <a href="featured.html" class="nav-link">Featured</a>
+        </nav>
+    </header>
+
+    <main> 
+        <div class="playlist-cards">
+        </div>
+    </main>
+
+    <!-- Modal structure for popup -->
+    <div class="modal-overlay">
+        <div class="modal-content">
+            <!-- Close button -->
+            <span class="close-button">&times;</span>
+
+            <!-- Modal header with playlist details -->
+            <div class="modal-header">
+                <!-- playlist cover -->
+                <img src="assets/img/playlist.png" alt="Sample Playlist Cover" class="modal-cover">
+                
+                <!-- Playlist info -->
+                <div class="modal-playlist-info">
+                    <h2 class="modal-playlist-title">Summer Hits 2024</h2>
+                    <p class="modal-playlist-author">By: DJ MixMaster</p>
+                    
+                    <button class="shuffle-button">🔀 Shuffle Songs</button>
+                </div>
+            </div>
+
+            <!-- Songs section -->
+            <div class="songs-section">
+                <h3>Songs in this playlist:</h3>
+                
+                <div class="songs-list">
+                    <div class="song-item">
+                        <span class="song-title">Blinding Lights</span>
+                        <span class="song-artist">The Weeknd</span>
+                        <span class="song-duration">3:20</span>
+                    </div>
+                    
+                    <div class="song-item">
+                        <span class="song-title">As It Was</span>
+                        <span class="song-artist">Harry Styles</span>
+                        <span class="song-duration">2:47</span>
+                    </div>
+                    
+                    <div class="song-item">
+                        <span class="song-title">Anti-Hero</span>
+                        <span class="song-artist">Taylor Swift</span>
+                        <span class="song-duration">3:20</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Music Playlist Explorer</p>
+    </footer>
+    
+    <script src="data/data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
