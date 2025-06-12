@@ -132,7 +132,17 @@ Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD
 ### Walkthrough Video
 
 
-`ADD_EMBEDDED_CODE_HERE`
+<div>
+    <a href="https://www.loom.com/share/597ae85013e9419588530e56ede9c598">
+      <p>Music Playlist Explorer - 11 June 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/597ae85013e9419588530e56ede9c598">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/597ae85013e9419588530e56ede9c598-c054944036407d3d-full-play.gif">
+    </a>
+  </div>
+
+
+
 
 ### Reflection
 
